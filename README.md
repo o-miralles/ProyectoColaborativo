@@ -19,4 +19,3 @@
         ·   feature/multiples-de-3: Implementará la lógica para reemplazar múltiplos de 3 por "Coca".
         ·   feature/multiples-de-5: Implementará la lógica para reemplazar múltiplos de 5 por "Cola".
         ·   feature/multiples-de-ambos: Implementará la lógica para reemplazar múltiplos de 3 y 5 por "CocaCola".
-        
